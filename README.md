@@ -1,4 +1,4 @@
-- 👋 Hi, I’m dikshen
+- 👋 Hi, I'm not a dwarf! I'm a girl! 
 - 👀 I’m interested in HCD
 - 🌱 I’m currently learning ummm....a little bit of everything
 - 💞️ I’m looking to collaborate on research and design case studies 
