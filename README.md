@@ -1,8 +1,8 @@
 - 👋 I'm not a dwarf! I'm a girl! 
-- 👀 I’m interested in HCD
-- 🌱 I’m currently learning ummm....a little bit of everything
+- 👀 HCD Student
+- 🌱 Currently learning Python, Service Design, accessible user experience design and Research
 - 💞️ I’m looking to collaborate on research and design case studies 
-- 📫 How to reach me? Here is my number 986justkidding, email me at tmg.dikshen@gmail.com
+- 📫 How to reach me? Here is my number 327justkidding, email me at tmg.dikshen@gmail.com
 
 <!---
 dikshentamang/dikshentamang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
